@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>binome1.binome2.tp5/binome1.binome2.tp5.HelloApplication</mainClass>
+                            <mainClass>binome1.binome2.tp5/binome1.binome2.tp5.MainMorpionV1</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>
